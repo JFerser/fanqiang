@@ -17,12 +17,12 @@
     "inbounds": [
         {
             "listen": "0.0.0.0",
-            "port": 1234,
+            "port": 443,
             "protocol": "vmess",
             "settings": {
                 "clients": [
                     {
-                        "id": "7966c347-b5f5-46a0-b720-ef2d76e1836a"
+                        "id": "0101ffa6-10e6-4e62-84c3-40a6fa044c7f"
                     }
                 ]
             },
